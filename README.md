@@ -5,6 +5,7 @@ Kalman filter is a filter which is used to find the required measurements from t
 
 I used a potentiometer to get a true value then using code,added random numbers to the true value.This represents a bad sensor.Then I fed this noisy value to the kalman filter.
 For analyzing,all three values were plotted in the serial monitor.
+
 In short I broke a signal on purpose, and then used the Kalman Filter to fix it😂
 <img width="1906" height="1007" alt="image" src="https://github.com/user-attachments/assets/1e2aec52-791c-413b-b483-fb82dd25ade9" />
 The Blue Line (Real Value)
